@@ -1,0 +1,8 @@
+[package]
+name = "delay"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+hifitime = "3.9.0"
+simple_moving_average = "1.0.2"
